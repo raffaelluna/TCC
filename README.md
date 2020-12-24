@@ -1,2 +1,2 @@
 # TCC
-Some codes of my graduation project
+Convolution Neural Network for Video Quality Assessment
